@@ -23,7 +23,7 @@ El objetivo de esta práctica es aprender a **analizar imágenes mediante detecc
 - **Paso 5:** Mostrar gráficamente la respuesta y los resultados en consola. 
 
 <div align="center">
-    <img src="./Tarea_1.1.png" alt="Conteo de píxeles con Canny" width="400">
+    <img src="./Tarea_1.png" alt="Conteo de píxeles con Canny" width="400">
 </div>
 
 ---
