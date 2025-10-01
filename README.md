@@ -23,7 +23,7 @@ El objetivo de esta práctica es aprender a **analizar imágenes mediante detecc
 - **Paso 5:** Mostrar gráficamente la respuesta y los resultados en consola. 
 
 <div align="center">
-    <img src="./Tarea_1.1.jpg" alt="Conteo de píxeles con Canny" width="400">
+    <img src="./Tarea_1.1.png" alt="Conteo de píxeles con Canny" width="400">
 </div>
 
 ---
@@ -38,8 +38,8 @@ El objetivo de esta práctica es aprender a **analizar imágenes mediante detecc
 - **Paso 6:** Comparar los resultados frente a Canny.  
 
 <div align="center">
-    <img src="./Tarea_2.2.jpg" alt="Gráfica de las filas y las columnas destacadas" width="400">
-    <img src="./Tarea_2.3.jpg" alt="Imagen original con filas y columnas destacadas" width="400">
+    <img src="./Tarea_2.2.png" alt="Gráfica de las filas y las columnas destacadas" width="400">
+    <img src="./Tarea_2.3.png" alt="Imagen original con filas y columnas destacadas" width="400">
 
 
 </div>
@@ -58,9 +58,9 @@ El objetivo de esta práctica es aprender a **analizar imágenes mediante detecc
   - `3`: azul  
 
 <div align="center">
-    <img src="./Tarea_3.1.jpg" alt="Filtro de color verde" width="400">
-    <img src="./Tarea_3.2.jpg" alt="Filtro de color rojo" width="400">
-    <img src="./Tarea_3.3.jpg" alt="Filtro de color azul" width="400">
+    <img src="./Tarea_3.1.png" alt="Filtro de color verde" width="400">
+    <img src="./Tarea_3.2.png" alt="Filtro de color rojo" width="400">
+    <img src="./Tarea_3.3.png" alt="Filtro de color azul" width="400">
 </div>
 
 ---
@@ -76,7 +76,7 @@ Inspirado en proyectos como [My little piece of privacy](https://www.niklasroy.c
 - **Paso 5:** Combinar la vista original con la artística.  
 
 <div align="center">
-    <img src="./Tarea_4.jpg" alt="Demostrador artístico interactivo" width="400">
+    <img src="./Tarea_4.png" alt="Demostrador artístico interactivo" width="400">
 </div>
 
 ---
